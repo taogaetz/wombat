@@ -1,1 +1,6 @@
 wombat
+logs.*
+*.logs
+logs
+.logs
+
